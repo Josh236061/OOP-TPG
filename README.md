@@ -17,5 +17,5 @@ GIVEN a command-line application that accepts user input WHEN I am prompted for 
 
 
 ## URL(s)
-* GitHub Repo URL: //github.com/Josh236061/OOP-TPG
+* GitHub Repo URL: [//github.com/Josh236061/OOP-TPG](https://github.com/Josh236061/OOP-TPG)
 * Walkthrough Video: https://drive.google.com/file/d/1ACQ3qKzkWhEreMYFn2K_VtwU0V45ZBzH/view?usp=share_link
