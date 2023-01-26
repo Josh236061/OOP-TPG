@@ -18,3 +18,5 @@ GIVEN a command-line application that accepts user input WHEN I am prompted for 
 ## Screenshot(s)
 
 ## URL(s)
+* GitHub Repo URL: //github.com/Josh236061/OOP-TPG
+* Walkthrough Video: 
