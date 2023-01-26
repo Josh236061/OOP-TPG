@@ -34,6 +34,4 @@ test('creates Intern', () => {
             expect(intern.getRole()).toBe(role);
             });
         });
-    }
-    
-    )
+    });

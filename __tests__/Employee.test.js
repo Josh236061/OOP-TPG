@@ -34,7 +34,6 @@ test('creates Employee', () => {
         expect(employee.getId()).toBe(id);
         expect(employee.getEmail()).toBe(email);
         expect(employee.getRole()).toBe(role);
-    })
-
-    })
-})
+        });
+    });
+});
