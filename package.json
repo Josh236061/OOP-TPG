@@ -4,7 +4,20 @@
     "jest": "^29.4.1",
     "node": "^18.13.0"
   },
+
   "scripts": {
     "test": "jest"
-  }
+  },
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/josh236061/OOP-TPG.git"
+},
+"keywords": [],
+"author": "",
+"license": "ISC",
+"bugs": {
+  "url": "https://github.com/josh236061/OOP-TPG"
+},
+"homepage": "https://github.com/josh236061/OOP-TPG"
 }
+
